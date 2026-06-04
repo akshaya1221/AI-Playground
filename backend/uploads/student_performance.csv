@@ -1,0 +1,11 @@
+StudentID,Name,Age,StudyHours,Attendance,PreviousMarks,InternetAccess,Result
+1,Asha,18,6,92,81,Yes,Pass
+2,Ravi,19,3,78,65,No,Pass
+3,Meera,18,1,55,41,Yes,Fail
+4,Arjun,20,7,96,89,Yes,Pass
+5,Neha,18,2,60,50,No,Fail
+6,Kiran,19,5,88,72,Yes,Pass
+7,Divya,20,1,45,38,No,Fail
+8,Aman,18,4,75,69,Yes,Pass
+9,Sara,19,2,58,44,Yes,Fail
+10,Vikram,20,6,90,83,No,Pass
