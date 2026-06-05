@@ -71,21 +71,6 @@ npm install
 npm run dev
 ```
 
-## Screenshots
-
-Add screenshots here.
-
-### Dashboard
-
-<img width="100%" alt="Dashboard Screenshot" src="screenshots/dashboard.png">
-
-### Model Training
-
-<img width="100%" alt="Training Screenshot" src="screenshots/training.png">
-
-### Model Comparison
-
-<img width="100%" alt="Comparison Screenshot" src="screenshots/comparison.png">
 
 ## Future Improvements
 
