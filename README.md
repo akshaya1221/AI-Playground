@@ -2,6 +2,14 @@
 
 AI Playground is a no-code machine learning platform that allows users to upload datasets, train machine learning models, compare results, tune hyperparameters, and generate reports through a simple web interface.
 
+## Live Demo
+
+Frontend:
+https://ai-playground-omega-peach.vercel.app
+
+Backend API:
+https://ai-playground-yxnw.onrender.com
+
 ## Features
 
 * Upload and preview CSV datasets
