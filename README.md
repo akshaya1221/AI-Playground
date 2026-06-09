@@ -78,7 +78,7 @@ npm run dev
 * Cloud deployment support
 * User accounts
 * Experiment sharing
-* Advanced visualizations
+* Advanced visualization
 
 ## Author
 
